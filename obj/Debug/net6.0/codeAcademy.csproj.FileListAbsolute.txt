@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\codeAcademy\obj\Debug\net6.0\codeAcademy.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\codeAcademy\obj\Debug\net6.0\codeAcademy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\codeAcademy\obj\Debug\net6.0\codeAcademy.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\codeAcademy\obj\Debug\net6.0\codeAcademy.AssemblyInfo.cs
+C:\Users\Admin\Desktop\codeAcademy\obj\Debug\net6.0\codeAcademy.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\codeAcademy\bin\Debug\net6.0\codeAcademy.exe
+C:\Users\Admin\Desktop\codeAcademy\bin\Debug\net6.0\codeAcademy.deps.json
+C:\Users\Admin\Desktop\codeAcademy\bin\Debug\net6.0\codeAcademy.runtimeconfig.json
+C:\Users\Admin\Desktop\codeAcademy\bin\Debug\net6.0\codeAcademy.dll
+C:\Users\Admin\Desktop\codeAcademy\bin\Debug\net6.0\codeAcademy.pdb
+C:\Users\Admin\Desktop\codeAcademy\obj\Debug\net6.0\codeAcademy.dll
+C:\Users\Admin\Desktop\codeAcademy\obj\Debug\net6.0\refint\codeAcademy.dll
+C:\Users\Admin\Desktop\codeAcademy\obj\Debug\net6.0\codeAcademy.pdb
+C:\Users\Admin\Desktop\codeAcademy\obj\Debug\net6.0\codeAcademy.genruntimeconfig.cache
+C:\Users\Admin\Desktop\codeAcademy\obj\Debug\net6.0\ref\codeAcademy.dll
